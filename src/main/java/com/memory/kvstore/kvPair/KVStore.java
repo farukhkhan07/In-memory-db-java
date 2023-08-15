@@ -1,4 +1,4 @@
-package com.celonis.kvstore.kvPair;
+package com.memory.kvstore.kvPair;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;

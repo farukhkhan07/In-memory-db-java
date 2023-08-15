@@ -1,7 +1,7 @@
-package com.celonis.kvstore;
+package com.memory.kvstore;
 
 
-import com.celonis.kvstore.kvPair.KVStore;
+import com.memory.kvstore.kvPair.KVStore;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;

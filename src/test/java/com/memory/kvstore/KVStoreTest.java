@@ -1,7 +1,7 @@
-package com.celonis.kvstore;
+package com.memory.kvstore;
 
-import com.celonis.kvstore.kvPair.KVPair;
-import com.celonis.kvstore.kvPair.KVStore;
+import com.memory.kvstore.kvPair.KVPair;
+import com.memory.kvstore.kvPair.KVStore;
 import org.junit.Test;
 
 import java.util.Optional;

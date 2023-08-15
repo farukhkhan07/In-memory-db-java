@@ -1,8 +1,8 @@
-package com.celonis.kvstore.controller;
+package com.memory.kvstore.controller;
 
-import com.celonis.kvstore.exceptions.KeyNotFoundException;
-import com.celonis.kvstore.kvPair.KVPair;
-import com.celonis.kvstore.kvPair.KVStore;
+import com.memory.kvstore.exceptions.KeyNotFoundException;
+import com.memory.kvstore.kvPair.KVPair;
+import com.memory.kvstore.kvPair.KVStore;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
